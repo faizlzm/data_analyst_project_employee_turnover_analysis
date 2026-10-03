@@ -162,19 +162,6 @@ Rate pada semua segmen ini berada di sekitar rata-rata keseluruhan (51,1%), sehi
 - Segmen kecil (Executive Office, Admin Offices, masa kerja 5–6 tahun) memiliki sampel terlalu sedikit untuk disimpulkan secara kuat.
 - Faktor yang belum dianalisis mendalam, misalnya `Supervisor`, `BusinessUnit`, `PayZone`, dan `Current Employee Rating`, dapat menjadi pengembangan selanjutnya.
 
-## Cara Menggunakan Repositori Ini
-
-1. Clone repositori:
-
-   ```bash
-   git clone https://github.com/faizlzm/data_analyst_project_employee_turnover_analysis.git
-   cd data_analyst_project_employee_turnover_analysis
-   ```
-
-2. Buka `analysis_process/Assignment Case Study Excel.xlsx` dengan Microsoft Excel untuk melihat proses cleaning, pivot table, dan dashboard.
-3. Baca ringkasan hasil lengkap di `report/Analisis EmployeeHR Dataset.pdf`.
-4. Gunakan `dataset/employee_data.csv` jika ingin mengulang atau mengembangkan analisis dengan tool lain.
-
 ## Penulis
 
 **Ahmad Faiz Ali Azmi**
